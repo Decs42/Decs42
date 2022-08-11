@@ -13,6 +13,6 @@ My github stats
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Decs42&theme=midnight-purple&hide=contribs,stars,issues&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Decs42&theme=midnight-purple&hide=stars,issues&count_private=true)
 
 
