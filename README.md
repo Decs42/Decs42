@@ -9,10 +9,3 @@ This is how many people have viewed my profile 👀
 
 
 
-My github stats 
-
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Decs42&theme=midnight-purple&hide=stars,issues&count_private=true)
-
-
